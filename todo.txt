@@ -1,0 +1,12 @@
+- navbar
+- footer
+
+
+sections:
+- about me section (picture + small paragraph + resume link)
+- projects (show 3-4 projects with links + preview)
+
+
+- show how to add fonts
+
+deploy on GitHub

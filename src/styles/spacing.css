@@ -1,0 +1,6 @@
+.left {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translateX(-30%) translateY(-40%);
+}
